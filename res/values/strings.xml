@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="txt_valor1">Dame el primer numero</string>
+    <string name="txt_valor2">Dame el segundo numero</string>
+    <string name="check_suma">Sumar</string>
+    <string name="check_Resta">Restar</string>
+    <string name="check_multiplicacion">Multiplicar</string>
+    <string name="check_division">Dividir</string>
+    <string name="Button">Calcular</string>
+    <string name="tv_resultado">Resultado</string>
+</resources>
